@@ -1,0 +1,31 @@
+# User
+## Model
+    - firstName
+    - lastName
+    - passwordHash
+    - email
+## Methods
+    - createUser
+    - suspendUser
+    - unsuspendUser
+    - updateUser
+    - getUser
+    - listUsers
+    - forgetPassword
+# Note
+## Model
+    - title
+    - body
+    - tags
+    - owner
+    - sharedWith
+    - shareLink
+    - authors
+## Methods
+    - createNote
+    - deleteNote
+    - trashNote
+    - getNote
+    - listNotes
+
+
