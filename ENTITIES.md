@@ -4,14 +4,12 @@
     - lastName
     - passwordHash
     - email
+    - updatePassToken
 ## Methods
-    - createUser
-    - suspendUser
-    - unsuspendUser
-    - updateUser
-    - getUser
-    - listUsers
-    - forgetPassword
+    - create
+    - update
+    - get
+    - list
 # Note
 ## Model
     - title
@@ -22,10 +20,10 @@
     - shareLink
     - authors
 ## Methods
-    - createNote
-    - deleteNote
-    - trashNote
-    - getNote
-    - listNotes
+    - create
+    - delete
+    - trash
+    - get
+    - list
 
 
