@@ -11,6 +11,8 @@ As a last note I reserve the right to turn this idea/project into a commercial p
 ### Table of contents
 - [Features](#Features)
 - [Technologies](#Technologies)
+- [Entities](ENTITIES.md)
+- [API Specifications](https://app.swaggerhub.com/apis/cnacode/markitdown-api/1.0.0)
 
 ## Features
 * Authentication
