@@ -1,4 +1,5 @@
 # User
+
 ## Model
     - firstName
     - lastName
@@ -9,21 +10,27 @@
     - create
     - update
     - get
-    - list
+
 # Note
+
 ## Model
     - title
     - body
     - tags
     - owner
-    - sharedWith
-    - shareLink
-    - authors
+    - shareid
+    - visible
 ## Methods
     - create
     - delete
-    - trash
+    - update
+
+# UserNote
+
+## Model
+    - authorid
+    - noteid
+
+## Methods
     - get
     - list
-
-

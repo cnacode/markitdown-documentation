@@ -19,25 +19,35 @@ As a last note I reserve the right to turn this idea/project into a commercial p
     * Reset Password
     * Social Login
 * Roles:
-    * Admin
-      * Manupilate Global Setting
     * User:
-        * Create Note
-        * Delete Note
-        * Edit Note
-        * View Notes
+        * Create a note
+        * Delete a note
+        * View a note 
+        * Edit a note
+        * View a list of notes
 * Devices:
     * Desktop
     * Tablet
     * Phone
 
 ## Technologies:
-Below is a list of implementations for the project, each implementation uses different technologies
+There are different implementations of this project. Below is a list of back-end and front-end repos with technologies included: 
 
-#### Backend
-1. node-express backend - [link to repo]() - ⚙️ development
-    * [Node.js](www.nodejs.org)
 
-#### Frontend
-2. react-hooks implementation - [link to repo]() - 📅 
-    * [React.js]()
+
+### Backend implementations
+1. node-express implementation - [link to repo]() - ⚙️ development stage
+    * typescript
+    * node.js
+    * express.js
+3. python implementation - [link to repo]() - 📅 planning stage
+    * python
+
+### Frontend implementations
+1. react-redux implementation - [link to repo]() - ⚙️ development stage
+   * react.js
+    * redux
+
+3. react-hooks implementation - [link to repo]() - 📅 planning stage
+    * react.js
+
